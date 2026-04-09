@@ -4,7 +4,9 @@
     <title>My First Web Page</title>
 </head>
 <body>
-    <h1>Welcome to My Website</h1>
-    <p>This is my first paragraph written in HTML.</p>
+    <h1>Blogs:</h1>
+    <p>Placeholder123123</p>
+</body>
+<body>Placeholddrwowwie wow
 </body>
 </html>

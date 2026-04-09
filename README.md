@@ -1,2 +1,5 @@
 <img src="l5n8iplg2mhf1.jpeg">
-<p>This is a small blog thing that I can just put random stuff on lol :)</p>
+<h3>This is a small blog thing that I can just put random stuff on lol :)</h3>
+<hr>
+<div><p>Previous blogs:
+</p></div>
